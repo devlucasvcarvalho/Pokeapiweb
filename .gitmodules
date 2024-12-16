@@ -1,0 +1,6 @@
+[submodule "devopscasefront"]
+	path = devopscasefront
+	url = https://github.com/devlucasvcarvalho/devopscasefront.git
+[submodule "devopscaseback"]
+	path = devopscaseback
+	url = https://github.com/devlucasvcarvalho/devopscaseback.git

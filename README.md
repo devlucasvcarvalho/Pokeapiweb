@@ -70,7 +70,7 @@ Foi utilizado o **GitHub Actions** para automatizar o deploy do frontend na Verc
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/SeuUsuario/seu-projeto.git
+   git clone [https://github.com/SeuUsuario/seu-projeto.git](https://github.com/devlucasvcarvalho/Pokeapiweb.git)
    ```
 
 2. **Suba os containers**:
@@ -102,7 +102,7 @@ Este projeto foi desenvolvido por **Lucas Carvalho**.
 
 Entre em contato:
 - 📧 Email: prolucascarvalho@gmail.com
-- 🌐 LinkedIn: [José Roberto](https://www.linkedin.com/in/lucascarvalhopro/)
+- 🌐 LinkedIn: [Lucas Carvalho](https://www.linkedin.com/in/lucascarvalhopro/)
 <!-- - 🐙 GitHub: [zerobetone01](https://github.com/zerobetone01) -->
 
 ---

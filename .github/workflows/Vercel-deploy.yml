@@ -26,6 +26,8 @@ jobs:
           pwd
           ls
           cd devopscasefront
+          pwd
+          ls
           npm install
           npm run build 
    

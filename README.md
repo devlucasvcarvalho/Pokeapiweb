@@ -70,7 +70,7 @@ Foi utilizado o **GitHub Actions** para automatizar o deploy do frontend na Verc
 
 1. **Clone o repositório**:
    ```bash
-   git clone [https://github.com/SeuUsuario/seu-projeto.git](https://github.com/devlucasvcarvalho/Pokeapiweb.git)
+   git clone https://github.com/devlucasvcarvalho/Pokeapiweb.git
    ```
 
 2. **Suba os containers**:

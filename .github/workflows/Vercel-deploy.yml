@@ -23,6 +23,8 @@ jobs:
       # Instalar dependências e construir o projeto
       - name: Install dependencies and build
         run: |
+          pwd
+          ls
           cd devopscasefront
           npm install
           npm run build 

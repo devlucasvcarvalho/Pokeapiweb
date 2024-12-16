@@ -23,7 +23,7 @@ jobs:
       # Instalar dependências e construir o projeto
       - name: Install dependencies and build
         run: |
-          cd front
+          cd devopscasefront
           npm install
           npm run build 
    
@@ -33,6 +33,6 @@ jobs:
         env:
           VERCEL_TOKEN: ${{ secrets.Vercel_Token }} # Token do Vercel armazenado nos GitHub Secrets
         run: |
-          cd front
+          cd devopscasefront
           npm install -g vercel
           vercel --prod --token=$VERCEL_TOKEN --yes
